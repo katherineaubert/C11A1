@@ -1,0 +1,100 @@
+commit 16cf6698524f1a6c19de0ad0e10aea113bdb9338
+Author: Katherine Aubert <kaubert@mymail.mines.edu>
+Date:   Thu Feb 18 10:30:31 2021 -0700
+
+    Changed cat head to be pink
+
+commit dc864d73ee82ccf1acf73c48cb5397a95bf2e0e6
+Author: Katherine Aubert <kaubert@mymail.mines.edu>
+Date:   Thu Feb 18 10:28:57 2021 -0700
+
+    Changed eye separation
+
+commit 7309c062fef6434601d042b5f87d9cf83f31289f
+Author: Katherine Aubert <kaubert@mymail.mines.edu>
+Date:   Thu Feb 18 10:27:05 2021 -0700
+
+    Changed head size of cat to 175
+
+commit b1e1d15b14a27d6f07f94b0461a6311e200492c0
+Author: Katherine Aubert <kaubert@mymail.mines.edu>
+Date:   Thu Feb 18 10:23:45 2021 -0700
+
+    Source directory
+
+commit f18a6de269105e23f3e7c80aa51432f4d9684d30
+Author: cadecrandall <ccrandall@mymail.mines.edu>
+Date:   Thu Feb 18 10:22:55 2021 -0700
+
+    Update gitignore
+
+commit 027b580f8d243b058b9f823a1b6c53203a21edef
+Author: Katherine Aubert <kaubert@mymail.mines.edu>
+Date:   Thu Feb 18 10:14:49 2021 -0700
+
+    Added project into repository
+
+commit 3cb1bec14a88240b6be11947b956889a40d348fc
+Author: Katherine Aubert <58670966+katherineaubert@users.noreply.github.com>
+Date:   Thu Feb 18 09:53:34 2021 -0700
+
+    Initial commit
+commit d6b7213b5d64720da6c8153a92ef2da8332410f4
+Author: cadecrandall <ccrandall@mymail.mines.edu>
+Date:   Thu Feb 18 10:34:22 2021 -0700
+
+    Updated cat text
+
+commit 4ca9c278c1ae1866447ee028527bfe81f4e011c5
+Author: cadecrandall <ccrandall@mymail.mines.edu>
+Date:   Thu Feb 18 10:33:38 2021 -0700
+
+    Changed cat hair color
+
+commit 2f73dd9ff9f2b77e828ccfdca22185b9e31ca7fc
+Author: cadecrandall <ccrandall@mymail.mines.edu>
+Date:   Thu Feb 18 10:32:33 2021 -0700
+
+    Changed eye color to blue
+
+commit 16cf6698524f1a6c19de0ad0e10aea113bdb9338
+Author: Katherine Aubert <kaubert@mymail.mines.edu>
+Date:   Thu Feb 18 10:30:31 2021 -0700
+
+    Changed cat head to be pink
+
+commit dc864d73ee82ccf1acf73c48cb5397a95bf2e0e6
+Author: Katherine Aubert <kaubert@mymail.mines.edu>
+Date:   Thu Feb 18 10:28:57 2021 -0700
+
+    Changed eye separation
+
+commit 7309c062fef6434601d042b5f87d9cf83f31289f
+Author: Katherine Aubert <kaubert@mymail.mines.edu>
+Date:   Thu Feb 18 10:27:05 2021 -0700
+
+    Changed head size of cat to 175
+
+commit b1e1d15b14a27d6f07f94b0461a6311e200492c0
+Author: Katherine Aubert <kaubert@mymail.mines.edu>
+Date:   Thu Feb 18 10:23:45 2021 -0700
+
+    Source directory
+
+commit f18a6de269105e23f3e7c80aa51432f4d9684d30
+Author: cadecrandall <ccrandall@mymail.mines.edu>
+Date:   Thu Feb 18 10:22:55 2021 -0700
+
+    Update gitignore
+
+commit 027b580f8d243b058b9f823a1b6c53203a21edef
+Author: Katherine Aubert <kaubert@mymail.mines.edu>
+Date:   Thu Feb 18 10:14:49 2021 -0700
+
+    Added project into repository
+
+commit 3cb1bec14a88240b6be11947b956889a40d348fc
+Author: Katherine Aubert <58670966+katherineaubert@users.noreply.github.com>
+Date:   Thu Feb 18 09:53:34 2021 -0700
+
+    Initial commit
